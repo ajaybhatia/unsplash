@@ -1,0 +1,3 @@
+export const APPLICATION_ID = 'YOUR_APPLICATION_ID';
+export const SECRET_ID = 'YOUR_SECRET_ID';
+export const CALLBACK_URL = 'YOUR_APP_CALLBACK_URL';
